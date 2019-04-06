@@ -1,0 +1,23 @@
+p{
+	color: #7e1bb7;
+}
+img{
+	width: 60%;
+	height: 40%;
+	border-radius: 30%;
+}
+div{
+	background-color: #c5ccd8;
+	margin-left: 14px;
+	padding: 12px;
+	border-radius: 5%;
+}
+table{
+	border: 2px solid white;
+	border-collapse: collapse;
+}
+th,td{
+	border: 1px solid white;
+	color: white;
+	
+}
